@@ -13,7 +13,7 @@ import java.util.*;
  *@version 1.0
  *@author Yidam Park 
  */
-public class JR1617_Agram {
+public class Agram {
 	
 	static Scanner in;
 	static ArrayList<Integer> cardNum;
